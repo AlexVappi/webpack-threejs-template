@@ -1,6 +1,6 @@
 # webpack-threejs-template
 
-<p>Running dev-server: `npm run start`</p>
-<p>Running build: `npm run build`</p>
-
+Running dev-server: `npm run start`<br>
+Running build: `npm run build`
+___
 ![alt view](./src/img/view.png)
