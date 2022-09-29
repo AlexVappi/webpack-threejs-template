@@ -2,5 +2,5 @@
 
 Running dev-server: `npm run start`
 Running build: `npm run build`
-__
+___
 ![alt view](./src/img/view.png)
